@@ -5,6 +5,7 @@
 As a first step we sort the array. I chose the Root of the tree as "5" 
 
 my root : 5
+
                         5
                      /    \
                    2        7
